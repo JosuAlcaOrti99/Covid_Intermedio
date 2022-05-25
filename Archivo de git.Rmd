@@ -1,0 +1,7 @@
+---
+title: Analisis de datos covid 19 en costa rica -graficos del paquete ggplot2 y tablas
+  del paquete DT
+author: "Patrick Alcazar"
+date: '2022-05-25'
+output: html_document
+---
